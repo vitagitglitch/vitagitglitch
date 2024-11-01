@@ -9,6 +9,8 @@
 - Программа выводит среднее значение введенных чисел.
 
 Код:
+
+
 def calculate_average(numbers):
     if len(numbers) == 0:
         return 0
